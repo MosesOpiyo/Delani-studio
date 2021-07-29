@@ -1,21 +1,11 @@
 $(document).ready(function() {
-    $(".design img").click(function() {
-        $(".par1").toggle();
-
-
-    });
-    $(".design h3").click(function() {
-        $par(".par1").fadeIn();
-
-    });
-});
-$(document).ready(function() {
-    $(".development img").click(function() {
-        $(".par2").toggle();
-    });
-});
-$(document).ready(function() {
-    $(".product img").click(function() {
-        $(".par3").toggle();
-    });
-});
+    $(".col-1 img").click(function() {
+        $(".par1 p").toggle();
+    })
+    $(".col-2 img").click(function() {
+        $(".par2 p").toggle();
+    })
+    $(".col-3 img").click(function() {
+        $(".par3 p").toggle();
+    })
+})
