@@ -10,4 +10,7 @@ Technologies used are the following languages:
 
 #### License
 The licence used is an MIT licence.
+
+#### Issues with the website
+The website is having issues displaying its images but the issue is being resolved.
   
