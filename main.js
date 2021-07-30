@@ -9,3 +9,10 @@ $(document).ready(function() {
         $(".par3 p").toggle();
     })
 })
+
+function userMessage() {
+    let name = document.getElementById('name').value
+    let message = document.getElementById('message').value
+
+    return alert("Hello " + name + ". " + message + " .Message has been received.")
+}
