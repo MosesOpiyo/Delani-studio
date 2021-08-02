@@ -6,7 +6,7 @@ body {
 .container {
     width: 100%;
     height: 75vh;
-    background-image: url(/IP3-master/assets/backgrounds/h_img.jpg);
+    background-image: url(https://github.com/MosesOpiyo/Delani-studio/blob/gh-pages/IP3-master/Assets/backgrounds/h_img.jpg?raw=true);
     background-position: center;
     background-size: cover;
     color: white;
@@ -43,7 +43,7 @@ header h1 br {
 }
 
 .services {
-    background-image: url(/IP3-master/assets/backgrounds/s_image.jpg);
+    background-image: url(https://github.com/MosesOpiyo/Delani-studio/blob/gh-pages/IP3-master/Assets/backgrounds/s_image.jpg?raw=true);
     background-position: center;
     background-size: cover;
     margin-left: 14%;
@@ -107,7 +107,7 @@ img {
 }
 
 .contact {
-    background-image: url(/IP3-master/assets/backgrounds/c_image.jpg);
+    background-image: url(https://github.com/MosesOpiyo/Delani-studio/blob/gh-pages/IP3-master/Assets/backgrounds/c_image.jpg?raw=true);
     background-position: center;
     background-size: cover;
     color: white;
